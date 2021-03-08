@@ -11,4 +11,5 @@
 The contributors of this project are:
 
 - Rafael Corchuelo (corchu@us.es)
+- Lucia Torres Gomez (luctorgom@alum.us.es)
 - Servando Figueroa Gómez (servandofg12@gmail.com) 
