@@ -8,10 +8,12 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-The contributors of this project are:
+The contributors of this proyect are:
 
 - Rafael Corchuelo (corchu@us.es)
+- Raul Parrado Gordon (raupargor@alum.us.es)
 - Jesús Roldán Cadena (jesrolcad@us.es)
 - Lucia Torres Gomez (luctorgom@alum.us.es)
 - Servando Figueroa Gómez (servandofg12@gmail.com) 
 - Álvaro Sánchez González (alsago68@gmail.com)
+
