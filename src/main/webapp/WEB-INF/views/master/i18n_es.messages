@@ -10,7 +10,7 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #5CE1E6
 
 ﻿# master.welcome ##############################################################
 
@@ -29,6 +29,7 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.favourite-link-lucia = Enlace favorito Lucia
 
 # master.menu.administrator ###################################################
 
