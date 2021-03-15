@@ -31,3 +31,7 @@
 		<acme:message code="${code}"/> 
 	</a>
 </security:authorize>
+
+	<a href="javascript: clearReturnUrl(); redirect('https://www.youtube.com/watch?v=U6n2NcJ7rLc')" class="dropdown-item">
+		<acme:message code="Servando's fav link"/> 
+	</a>
