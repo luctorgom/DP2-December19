@@ -20,7 +20,8 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="https://openai.com/blog/dall-e/"/>
+			<acme:menu-suboption code="Jesus' favourite link" action="https://www.vamosmisevillafc.com/"/>
+			<acme:menu-suboption code="Raul's favourite link" action="https://openai.com/blog/dall-e/"/>
 			<acme:menu-suboption  code="Servando's favourite link" action="https://www.youtube.com/watch?v=U6n2NcJ7rLc"/>
 			<acme:menu-suboption code="Lucia's favourite link" action="http://www.amazon.es/"/>
 			<acme:menu-suboption code="Alvaro's favourite link" action="http://www.netflix.com"/>
