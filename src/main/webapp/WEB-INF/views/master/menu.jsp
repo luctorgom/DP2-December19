@@ -20,6 +20,10 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-alvaro" action="http://www.netflix.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-jesus" action="https://www.vamosmisevillafc.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-raul" action="https://openai.com/blog/dall-e/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-servando" action="https://www.youtube.com/watch?v=U6n2NcJ7rLc"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-lucia" action="http://www.amazon.es/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
