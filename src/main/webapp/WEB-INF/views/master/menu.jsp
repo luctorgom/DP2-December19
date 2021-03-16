@@ -19,6 +19,7 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-maria" action="https://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-alvaro" action="http://www.netflix.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-jesus" action="https://www.vamosmisevillafc.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-raul" action="https://openai.com/blog/dall-e/"/>
