@@ -1,7 +1,7 @@
 <%--
 - menu-suboption.tag
 -
-- Copyright (c) 2012-2021 Rafael Corchuelo.
+- Copyright (C) 2012-2021 Rafael Corchuelo.
 -
 - In keeping with the traditional purpose of furthering education and research, it is
 - the policy of the copyright owner to permit non-commercial use and redistribution of
@@ -31,7 +31,3 @@
 		<acme:message code="${code}"/> 
 	</a>
 </security:authorize>
-
-	<!-- <a href="javascript: clearReturnUrl(); redirect('https://www.youtube.com/watch?v=U6n2NcJ7rLc')" class="dropdown-item">
-		<acme:message code="Servando's fav link"/> 
-	</a>  -->
