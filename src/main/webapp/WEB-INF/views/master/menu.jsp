@@ -25,7 +25,11 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-raul" action="https://openai.com/blog/dall-e/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-servando" action="https://www.youtube.com/watch?v=U6n2NcJ7rLc"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-lucia" action="http://www.amazon.es/"/>
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.listShout" action="/anonymous/shout/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.createShout" action="/anonymous/shout/create"/>
 		</acme:menu-option>
+		
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
